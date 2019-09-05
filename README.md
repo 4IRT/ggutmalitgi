@@ -3,3 +3,4 @@ github flow: fork & pull request
 
 ## 끝말잇기
 - 강동주
+- 주걱턱
